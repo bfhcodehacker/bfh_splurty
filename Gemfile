@@ -35,6 +35,9 @@ end
 # add bootstap-sass gem for twitter bootstrap
 gem 'bootstrap-sass', '~> 3.3.0'
 
+# add simple_form gem for contributing quotes
+gem 'simple_form'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
