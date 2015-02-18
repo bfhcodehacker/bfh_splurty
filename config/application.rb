@@ -25,5 +25,7 @@ module BfhSplurty
     # Precompile additional assets 
     config.assets.precompile += %w( .svg .eot .woff .ttf )
 
+    # allow translation of page
+    config.i18n.enforce_available_locales = false
   end
 end
