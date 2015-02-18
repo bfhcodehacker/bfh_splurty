@@ -38,6 +38,9 @@ gem 'bootstrap-sass', '~> 3.3.0'
 # add simple_form gem for contributing quotes
 gem 'simple_form'
 
+# Factory Girl for test driven development
+gem 'factory_girl_rails', '~> 4.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
